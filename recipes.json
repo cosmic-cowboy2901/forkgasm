@@ -6,7 +6,8 @@
 			"id": "turnip-carbonara",
 			"description": "A healthier version of the classic dish that tastes just as good!",
 			"tag": [
-				"Bacon"
+				"Bacon",
+				"Pasta"
 			],
 			"ingredient": [
 				{
